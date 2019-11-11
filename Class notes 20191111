@@ -1,2 +1,9 @@
 Jupyter Notebooks
 -able to create annotated notebook - annotate code
+
+Pandas 
+-package to analyze data in rows and cols
+-https://pandas.pydata.org/pandas-docs/stable/
+
+%matplotlib
+-to viz data
